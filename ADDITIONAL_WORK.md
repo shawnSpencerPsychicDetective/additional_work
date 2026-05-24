@@ -1,0 +1,52 @@
+# Additional Work
+
+A collection of side projects, experiments, and early explorations not featured in the main resume.
+
+---
+
+## [Custom SCP Database & Reading System](https://github.com/shawnSpencerPsychicDetective/Custom-SCP-System)
+**Tech:** SQLite, AJAX, Requests, BeautifulSoup
+
+- Personal passion project of interest
+- Parsed a website and placed links into an SQLLite Database
+- Extracted relevant information from each page on the database
+- Made a CLI script that shows me article by article for me to read in a custom-reading order I prefer
+
+---
+
+## [End-to-End Cloud-based MLOps Pipeline](https://drive.google.com/drive/folders/1MYkHXhJZfqogWksnTahuM-_chO2xRGlL?usp=drive_link)
+**Tech:** Cloud, MLOps, CI/CD
+
+- End-to-End Cloud-based MLOps Pipeline
+
+---
+
+## [Brain Emotion Perception Inspired EEG Emotion Recognition](https://drive.google.com/drive/folders/1GcbGkD3cRRv_STVO3wn9ngGsEAdn9ZVr?usp=drive_link)
+**Tech:** Reinforcement Learning, Deep Learning
+
+- Trying to detect emotions using EEG signals with an RL-based Deep Learning System
+
+---
+
+## Aura: Private Mental Health Chatbot
+**Tech:** Python, Rasa, Llama 3 (Ollama), Discord API
+
+- Built a privacy-first chatbot that runs entirely offline to ensure user data never leaves the local machine
+- Combined Rasa for structured tasks (like mood tracking) with a local Llama 3 model to handle open-ended, empathetic conversations
+- Engineered a custom Discord bridge that seamlessly switches between the rule-based engine and the LLM depending on user needs
+
+---
+
+## [Global Urban Growth Pattern Analysis](https://drive.google.com/file/d/163q1AEWTogirX42fTBGyTvsLftVr8pd-/view?usp=sharing)
+**Tech:** Python, Scikit-Learn, Pandas
+
+- Analyzed 10 years of satellite data from over 11,000 cities to understand how urban areas are expanding
+- Engineered growth metrics from the GHS-UCDB database and applied K-Means clustering to categorize cities into four distinct growth types (e.g., "Sprawl" vs. "Dense")
+- Discovered correlations between a city's wealth and its tendency to decline, providing data-driven insights for urban planning
+
+---
+
+## [Deep Learning + XAI on Ovarian Cancer Dataset](https://drive.google.com/file/d/1y-t44OYf0ookjhi7K521euu-FxztEren/view?usp=sharing)
+**Tech:** Deep Learning, GradCAM, LIME
+
+- Deep Learning + XAI project on Ovarian Cancer Dataset with Data Analytics and a dashboard
