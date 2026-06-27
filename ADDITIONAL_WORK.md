@@ -50,3 +50,25 @@ A collection of side projects, experiments, and early explorations not featured 
 **Tech:** Deep Learning, GradCAM, LIME
 
 - Deep Learning + XAI project on Ovarian Cancer Dataset with Data Analytics and a dashboard
+
+---
+
+## [End-to-End MLOps Wine Quality Predictor Pipeline](https://mlops-wine-predictor.onrender.com/docs)
+**Tech:** Docker, MLFlow, FastAPI, GitHub Actions, Render
+
+– Engineered a reproducible ML workflow using MLFlow
+– Developed a real-time inference microservice using FastAPI
+– Containerized the application with Docker
+– Implemented CI/CD Automation using GitHub Actions
+– Cloud Deployment using Rende
+
+---
+
+## [Wiki RAG Assistant](https://github.com/shawnSpencerPsychicDetective/Wiki-RAG-Assistant)
+**Tech:** LangGraph, ChromaDB, RAG, SentenceTransformer
+
+- RAG assistant answers questions using Wikipedia content and local vector retrieval.
+- Searches, extracts, embeds, and stores Wikipedia sections in ChromaDB.
+- Retrieves relevant passages and generates answers with an LLM.
+- Caches embeddings and generated answers for future reuse.
+- Uses LangGraph, DeepSeek, ChromaDB, and SentenceTransformers for workflow orchestration. 
