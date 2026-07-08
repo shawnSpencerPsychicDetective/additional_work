@@ -71,4 +71,16 @@ A collection of side projects, experiments, and early explorations not featured 
 - Searches, extracts, embeds, and stores Wikipedia sections in ChromaDB.
 - Retrieves relevant passages and generates answers with an LLM.
 - Caches embeddings and generated answers for future reuse.
-- Uses LangGraph, DeepSeek, ChromaDB, and SentenceTransformers for workflow orchestration. 
+- Uses LangGraph, DeepSeek, ChromaDB, and SentenceTransformers for workflow orchestration.
+
+---
+
+## [Worldbuilder](https://github.com/shawnSpencerPsychicDetective/worldbuilder)
+**Tech:**: OpenAI SDK, Multi-Agent Systems
+
+- Developed multi-agent engine that generates, critiques, and refines structured world lore across
+locations, factions, religions, cultures, and histo
+- Implemented critic agents to improve consistency, realism, novelty, and narrative potential
+through iterative feedback loops
+- Supports persistent world storage, Markdown export, and multiple LLM providers through
+OpenAI-compatible adapters
