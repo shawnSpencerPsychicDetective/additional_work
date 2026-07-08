@@ -76,7 +76,7 @@ A collection of side projects, experiments, and early explorations not featured 
 ---
 
 ## [Worldbuilder](https://github.com/shawnSpencerPsychicDetective/worldbuilder)
-**Tech:**: OpenAI SDK, Multi-Agent Systems
+**Tech:** OpenAI SDK, Multi-Agent Systems
 
 - Developed multi-agent engine that generates, critiques, and refines structured world lore across
 locations, factions, religions, cultures, and histo
