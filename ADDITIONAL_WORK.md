@@ -84,3 +84,13 @@ locations, factions, religions, cultures, and histo
 through iterative feedback loops
 - Supports persistent world storage, Markdown export, and multiple LLM providers through
 OpenAI-compatible adapters
+
+---
+
+## [Multi-Agent Technical Blogger](https://github.com/shawnSpencerPsychicDetective/multi-agent-technical-blogger-with-google-adk)
+**Tech:** Google ADK, Gemini, Multi-Agent Systems
+
+- Built a multi-agent blogging pipeline that automatically plans, validates, and writes technical articles.
+- Implemented planner and writer agents with validation checkpoints and retry loops to improve output quality.
+- Generates structured blog posts from a topic, along with alternate titles and social media hooks.
+- Uses Google ADK Agent, LoopAgent, and AgentTool abstractions for orchestration.
