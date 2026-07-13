@@ -94,3 +94,6 @@ OpenAI-compatible adapters
 - Implemented planner and writer agents with validation checkpoints and retry loops to improve output quality.
 - Generates structured blog posts from a topic, along with alternate titles and social media hooks.
 - Uses Google ADK Agent, LoopAgent, and AgentTool abstractions for orchestration.
+
+
+  ---
