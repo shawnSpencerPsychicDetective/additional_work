@@ -97,7 +97,7 @@ OpenAI-compatible adapters
 
   ---
   
-## [Few-Shot Learning with Skin Cancer Detection]
+## Few-Shot Learning with Skin Cancer Detection
 **Tech:** PyTorch, GANs, EfficientNet
 
 - Developed skin lesion classifier on ISIC 2020 dataset using few-shot learning for rare cancer classes
