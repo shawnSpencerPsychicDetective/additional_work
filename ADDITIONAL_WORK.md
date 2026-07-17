@@ -95,5 +95,14 @@ OpenAI-compatible adapters
 - Generates structured blog posts from a topic, along with alternate titles and social media hooks.
 - Uses Google ADK Agent, LoopAgent, and AgentTool abstractions for orchestration.
 
-
   ---
+  
+## [Few-Shot Learning with Skin Cancer Detection]
+**Tech:** PyTorch, GANs, EfficientNet
+
+- Developed skin lesion classifier on ISIC 2020 dataset using few-shot learning for rare cancer classes
+- Augmented limited data with Conditional GAN to improve performance on underrepresented lesions
+- Reduced model size by 73% (17MB to 4.5MB) through quantization for mobile deployment with minimal
+accuracy loss
+
+---
